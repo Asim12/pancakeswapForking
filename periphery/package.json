@@ -1,0 +1,24 @@
+{
+  "name": "periphery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pancakeswap-libs/sdk": "^1.0.1",
+    "@pancakeswap-libs/sdk-v2": "^2.2.0",
+    "@pancakeswap/pancake-swap-lib": "^0.0.4",
+    "@pancakeswap2/pancake-swap-core": "^0.1.0",
+    "@pancakeswap2/sdk": "^0.1.5",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1"
+  }
+}
